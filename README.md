@@ -2,14 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U0OW0zYXdqOGh1YjI4aHVhdmRsZHlnZDlpbTJjZmptcjRvYzV0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vladimir-malin-401006351/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/malin_vv">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+
 
 <h2 >Привет! Меня зовут Владимир Малин , и я — Python разработчик.👋</h2>
 
@@ -32,7 +25,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-316192?style=for-the-badge&logo=go&logoColor=white)
-
+<hr align="center">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vladimir-malin-401006351/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/malin_vv">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!--
 **malindev07/malindev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
